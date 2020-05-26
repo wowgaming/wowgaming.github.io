@@ -1,0 +1,8 @@
+#customize-control-blackoot_favicon .current .container {max-width: 32px;min-height: 0;max-height: 32px;}
+.customize-control-radio label {float: left;width: 50%;}
+#customize-controls a.blackoot-customize-pro {background: #161616;color: #b99128;font-size: .7em;padding: 3px 6px;line-height: 1.5;letter-spacing: 1px;text-transform: uppercase;-webkit-font-smoothing: subpixel-antialiased !important;}
+#customize-control-blackoot_upgrade .button {background: #00a0d2;border-color: #0073aa;-webkit-box-shadow: inset 0 1px 0 rgba(120,200,230,.5),0 1px 0 rgba(0,0,0,.15);box-shadow: inset 0 1px 0 rgba(120,200,230,.5),0 1px 0 rgba(0,0,0,.15);color: #fff;}
+#customize-theme-controls #accordion-section-blackoot_more h3 {background: #161616;color: #b99128;border: 3px solid #b99128;box-sizing: border-box;padding: 6px 6px 7px 10px;}
+#customize-theme-controls #accordion-section-blackoot_more h3:after {color: #b99128;top: 7px;right: 7px;}
+.customize-control-button {border-top: 1px solid #e9e9e9;padding-top: 20px;margin-bottom: 20px;}
+.customize-control-button:first-child {border: none;padding-top: 0;}
